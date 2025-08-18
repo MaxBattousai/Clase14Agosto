@@ -1,0 +1,27 @@
+table, td{
+    border: solid white 1px;
+}
+
+img{
+    width: 300px ;
+}
+
+td{
+    text-align: center;
+    align-items: center;
+    width: 300px;
+    background-color: darkred;
+    color: aliceblue;
+}
+
+a{
+   text-decoration: none;
+}
+
+a:visited{
+    color: white
+}
+
+a:hover{            
+    color: aquamarine;
+}
